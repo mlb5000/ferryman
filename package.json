@@ -19,7 +19,7 @@
     "bunyan": "^1.8.10",
     "co": "4.6.0",
     "debug": "3.1.0",
-    "elasticio-rest-node": "1.2.2",
+    "elasticio-rest-node": "git://github.com/elasticio/elasticio-rest-node#51-issue-salesforce",
     "lodash": "4.17.4",
     "q": "1.4.1",
     "request-promise-native": "^1.0.5",
